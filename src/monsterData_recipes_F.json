@@ -1,0 +1,1542 @@
+[
+  {
+    "parentA": "じんめんじゅ",
+    "parentB": "ワルぼう",
+    "child": "エグドラシル"
+  },
+  {
+    "parentA": "じんめんじゅ",
+    "parentB": "わたぼう",
+    "child": "エグドラシル"
+  },
+  {
+    "parentA": "タイタニス",
+    "parentB": "魔王ジェイム",
+    "child": "エスターク"
+  },
+  {
+    "parentA": "タイタニス",
+    "parentB": "プチターク",
+    "child": "エスターク"
+  },
+  {
+    "parentA": "闘神レオソード",
+    "parentB": "マスタードラゴン",
+    "child": "オムド・ロレス"
+  },
+  {
+    "parentA": "魔王ジェイム",
+    "parentB": "サージタウス",
+    "child": "ガーディス"
+  },
+  {
+    "parentA": "ダークドレアム",
+    "parentB": "グラコス",
+    "child": "海王神"
+  },
+  {
+    "parentA": "ダークドレアム",
+    "parentB": "ゆうれい船",
+    "child": "海王神"
+  },
+  {
+    "parentA": "スライムマデュラ",
+    "parentB": "ムドー",
+    "child": "ガルマッゾ"
+  },
+  {
+    "parentA": "スライムマデュラ",
+    "parentB": "カンダタワイフ",
+    "child": "ガルマッゾ"
+  },
+  {
+    "parentA": "スライムマデュラ",
+    "parentB": "カンダタおやぶん",
+    "child": "ガルマッゾ"
+  },
+  {
+    "parentA": "暗黒の魔神",
+    "parentB": "アトラス",
+    "child": "ギガデーモン"
+  },
+  {
+    "parentA": "暗黒の魔神",
+    "parentB": "ギガントドラゴン",
+    "child": "ギガデーモン"
+  },
+  {
+    "parentA": "暗黒の魔神",
+    "parentB": "はくりゅうおう",
+    "child": "ギガデーモン"
+  },
+  {
+    "parentA": "オムド・ロレス",
+    "parentB": "マガルギ",
+    "child": "ギスヴァーグ"
+  },
+  {
+    "parentA": "神獣系",
+    "parentB": "Sランク以上の自然系",
+    "child": "キングスペーディオ"
+  },
+  {
+    "parentA": "神獣系",
+    "parentB": "Sランク以上の物質系",
+    "child": "グラブゾンジャック"
+  },
+  {
+    "parentA": "バルボロス",
+    "parentB": "竜神王",
+    "child": "グレイナル"
+  },
+  {
+    "parentA": "キラーマジンガ",
+    "parentB": "キラーマジンガ",
+    "child": "サージタウス"
+  },
+  {
+    "parentA": "少年レオソード",
+    "parentB": "デモンスペーディオ",
+    "child": "邪神レオソード"
+  },
+  {
+    "parentA": "キングスペーディオ",
+    "parentB": "神鳥レティス",
+    "child": "JOKER"
+  },
+  {
+    "parentA": "竜神王",
+    "parentB": "レティス",
+    "child": "神鳥レティス"
+  },
+  {
+    "parentA": "グレイナル",
+    "parentB": "にじくじゃく",
+    "child": "神竜"
+  },
+  {
+    "parentA": "グレイナル",
+    "parentB": "エグドラシル",
+    "child": "神竜"
+  },
+  {
+    "parentA": "グレイナル",
+    "parentB": "じげんりゅう",
+    "child": "神竜"
+  },
+  {
+    "parentA": "スライダークロボ",
+    "parentB": "エリスグール",
+    "child": "スラ・ブラスター"
+  },
+  {
+    "parentA": "スライダークロボ",
+    "parentB": "勇車スラリンガル",
+    "child": "スラ・ブラスター"
+  },
+  {
+    "parentA": "デュラン",
+    "parentB": "ガルマッゾ",
+    "child": "ダークドレアム"
+  },
+  {
+    "parentA": "シドー",
+    "parentB": "デュラハーン",
+    "child": "大魔王ゾーマ"
+  },
+  {
+    "parentA": "シドー",
+    "parentB": "ワイトキング",
+    "child": "大魔王ゾーマ"
+  },
+  {
+    "parentA": "ゾーマズデビル",
+    "parentB": "デュラハーン",
+    "child": "大魔王ゾーマ"
+  },
+  {
+    "parentA": "ゾーマズデビル",
+    "parentB": "ワイトキング",
+    "child": "大魔王ゾーマ"
+  },
+  {
+    "parentA": "デスピサロ",
+    "parentB": "魔王デスタムーア",
+    "child": "大魔王デスタムーア"
+  },
+  {
+    "parentA": "魔王ラプソーン",
+    "parentB": "エスターク",
+    "child": "大魔王ラプソーン"
+  },
+  {
+    "parentA": "スライムマデュラ",
+    "parentB": "スラキャンサー",
+    "child": "ダイヤモンドスライム"
+  },
+  {
+    "parentA": "神獣系",
+    "parentB": "Sランク以上の魔獣系",
+    "child": "ディアノーグエース"
+  },
+  {
+    "parentA": "キングスペーディオ",
+    "parentB": "レオパルド",
+    "child": "デモンスペーディオ"
+  },
+  {
+    "parentA": "少年レオソード",
+    "parentB": "JOKER",
+    "child": "闘神レオソード"
+  },
+  {
+    "parentA": "グレイナル",
+    "parentB": "わたぼう",
+    "child": "トーポ"
+  },
+  {
+    "parentA": "グレイナル",
+    "parentB": "かみさま",
+    "child": "トーポ"
+  },
+  {
+    "parentA": "ダイヤモンドスライム",
+    "parentB": "エリスグール",
+    "child": "はぐれメタルキング"
+  },
+  {
+    "parentA": "ダイヤモンドスライム",
+    "parentB": "スライダークロボ",
+    "child": "はぐれメタルキング"
+  },
+  {
+    "parentA": "ダイヤモンドスライム",
+    "parentB": "スラ・ブラスター",
+    "child": "はぐれメタルキング"
+  },
+  {
+    "parentA": "ダイヤモンドスライム",
+    "parentB": "勇車スラリンガル",
+    "child": "はぐれメタルキング"
+  },
+  {
+    "parentA": "邪獣ヒヒュルデ",
+    "parentB": "エルギオス",
+    "child": "ヒヒュドラード"
+  },
+  {
+    "parentA": "オルゴ・デミーラ",
+    "parentB": "フォロボス",
+    "child": "魔王オルゴ・デミーラ"
+  },
+  {
+    "parentA": "オルゴ・デミーラ",
+    "parentB": "フォロボシータ",
+    "child": "魔王オルゴ・デミーラ"
+  },
+  {
+    "parentA": "キャプテン・クロウ",
+    "parentB": "ダークドレアム",
+    "child": "魔王ジェイム"
+  },
+  {
+    "parentA": "バラモス",
+    "parentB": "ミルドラース",
+    "child": "魔王ミルドラース"
+  },
+  {
+    "parentA": "やまたのおろち",
+    "parentB": "ギガデーモン",
+    "child": "マガルギ"
+  },
+  {
+    "parentA": "竜王",
+    "parentB": "神竜",
+    "child": "マスタードラゴン"
+  },
+  {
+    "parentA": "竜王",
+    "parentB": "トーポ",
+    "child": "マスタードラゴン"
+  },
+  {
+    "parentA": "りゅうおう",
+    "parentB": "はくりゅうおう",
+    "child": "竜王"
+  },
+  {
+    "parentA": "キングヒドラ",
+    "parentB": "魔戦士メイザー",
+    "child": "竜皇帝バルグディス"
+  },
+  {
+    "parentA": "竜王",
+    "parentB": "大魔王ラプソーン",
+    "child": "竜神王"
+  },
+  {
+    "parentA": "ドルマゲス",
+    "parentB": "ワンダーフール",
+    "child": "レオパルド"
+  },
+  {
+    "parentA": "ドルマゲス",
+    "parentB": "ケルベロス",
+    "child": "レオパルド"
+  },
+  {
+    "parentA": "スライムジェネラル",
+    "parentB": "ドラゴンコープス",
+    "child": "アクバー"
+  },
+  {
+    "parentA": "ギガンテス",
+    "parentB": "アンクルホーン",
+    "child": "アトラス"
+  },
+  {
+    "parentA": "ギガンテス",
+    "parentB": "ガルーダ",
+    "child": "アトラス"
+  },
+  {
+    "parentA": "ギガンテス",
+    "parentB": "ダブルイーター",
+    "child": "アトラス"
+  },
+  {
+    "parentA": "ヘルクラウド",
+    "parentB": "うごくせきぞう",
+    "child": "暗黒の魔神"
+  },
+  {
+    "parentA": "ヘルクラウド",
+    "parentB": "ゴールドマン",
+    "child": "暗黒の魔神"
+  },
+  {
+    "parentA": "バベルボブル",
+    "parentB": "うごくせきぞう",
+    "child": "暗黒の魔神"
+  },
+  {
+    "parentA": "バベルボブル",
+    "parentB": "ゴールドマン",
+    "child": "暗黒の魔神"
+  },
+  {
+    "parentA": "イブール",
+    "parentB": "ほうらい大王",
+    "child": "エビルプリースト"
+  },
+  {
+    "parentA": "イブール",
+    "parentB": "どぐう戦士",
+    "child": "エビルプリースト"
+  },
+  {
+    "parentA": "ボストロール",
+    "parentB": "ギガントヒルズ",
+    "child": "おにこんぼう"
+  },
+  {
+    "parentA": "ボストロール",
+    "parentB": "バズズ",
+    "child": "おにこんぼう"
+  },
+  {
+    "parentA": "ボストロール",
+    "parentB": "リザードファッツ",
+    "child": "おにこんぼう"
+  },
+  {
+    "parentA": "ゴレオン将軍",
+    "parentB": "バルバルー",
+    "child": "怪力軍曹イボイノス"
+  },
+  {
+    "parentA": "ギガミュータント",
+    "parentB": "大王イカ",
+    "child": "ガマデウス"
+  },
+  {
+    "parentA": "ギガミュータント",
+    "parentB": "ぬしさま",
+    "child": "ガマデウス"
+  },
+  {
+    "parentA": "ギガミュータント",
+    "parentB": "ほうらい大王",
+    "child": "ガマデウス"
+  },
+  {
+    "parentA": "ギガントヒルズ",
+    "parentB": "アトラス",
+    "child": "ギガントドラゴン"
+  },
+  {
+    "parentA": "ギガントヒルズ",
+    "parentB": "バズズ",
+    "child": "ギガントドラゴン"
+  },
+  {
+    "parentA": "ギガントヒルズ",
+    "parentB": "ベリアル",
+    "child": "ギガントドラゴン"
+  },
+  {
+    "parentA": "ドラゴンマシン",
+    "parentB": "キラーマシン３",
+    "child": "キラーマジンガ"
+  },
+  {
+    "parentA": "パオーム",
+    "parentB": "パオーム",
+    "child": "キングレオ"
+  },
+  {
+    "parentA": "デスソシスト",
+    "parentB": "黒竜丸",
+    "child": "コアトル"
+  },
+  {
+    "parentA": "サンダーバード",
+    "parentB": "ピサロナイト",
+    "child": "さそりアーマー"
+  },
+  {
+    "parentA": "サンダーバード",
+    "parentB": "デュラハーン",
+    "child": "さそりアーマー"
+  },
+  {
+    "parentA": "サンダーバード",
+    "parentB": "ホーンビートル",
+    "child": "さそりアーマー"
+  },
+  {
+    "parentA": "ハーゴン",
+    "parentB": "魔王の使い",
+    "child": "シドー"
+  },
+  {
+    "parentA": "ハーゴン",
+    "parentB": "オセアーノン",
+    "child": "シドー"
+  },
+  {
+    "parentA": "ハーゴン",
+    "parentB": "がいこつけんし",
+    "child": "シドー"
+  },
+  {
+    "parentA": "ピサロナイト",
+    "parentB": "ピサロナイト",
+    "child": "死神の騎士"
+  },
+  {
+    "parentA": "カカロン",
+    "parentB": "ゲルニック将軍",
+    "child": "邪眼皇帝アウルート"
+  },
+  {
+    "parentA": "スラ忍パープル",
+    "parentB": "スラ忍レッド",
+    "child": "スラ忍ゴールド"
+  },
+  {
+    "parentA": "スラ忍パープル",
+    "parentB": "スラ忍グリーン",
+    "child": "スラ忍ゴールド"
+  },
+  {
+    "parentA": "スラ忍パープル",
+    "parentB": "スラ忍ブルー",
+    "child": "スラ忍ゴールド"
+  },
+  {
+    "parentA": "スラ忍パープル",
+    "parentB": "スラ忍オレンジ",
+    "child": "スラ忍ゴールド"
+  },
+  {
+    "parentA": "スラ忍パープル",
+    "parentB": "スラ忍イエロー",
+    "child": "スラ忍シルバー"
+  },
+  {
+    "parentA": "スラ忍パープル",
+    "parentB": "スラ忍ブラウン",
+    "child": "スラ忍シルバー"
+  },
+  {
+    "parentA": "スラ忍パープル",
+    "parentB": "スラ忍ブラック",
+    "child": "スラ忍シルバー"
+  },
+  {
+    "parentA": "スラ忍パープル",
+    "parentB": "スラ忍ピンク",
+    "child": "スラ忍シルバー"
+  },
+  {
+    "parentA": "ゴールデンゴーレム",
+    "parentB": "ブラックドラゴン",
+    "child": "セルゲイナス"
+  },
+  {
+    "parentA": "ゴールデンゴーレム",
+    "parentB": "ヘラクレイザー",
+    "child": "セルゲイナス"
+  },
+  {
+    "parentA": "メカバーン",
+    "parentB": "大王イカ",
+    "child": "ダーククリスタル"
+  },
+  {
+    "parentA": "メカバーン",
+    "parentB": "マリンデュエル",
+    "child": "ダーククリスタル"
+  },
+  {
+    "parentA": "メカバーン",
+    "parentB": "ロック鳥",
+    "child": "ダーククリスタル"
+  },
+  {
+    "parentA": "アンクルホーン",
+    "parentB": "アトラス",
+    "child": "タイタニス"
+  },
+  {
+    "parentA": "アンクルホーン",
+    "parentB": "ぬしさま",
+    "child": "タイタニス"
+  },
+  {
+    "parentA": "ピサロナイト",
+    "parentB": "あくまの騎士",
+    "child": "デスマシーン"
+  },
+  {
+    "parentA": "アクバー",
+    "parentB": "ムドー",
+    "child": "ドーク"
+  },
+  {
+    "parentA": "アクバー",
+    "parentB": "カンダタおやぶん",
+    "child": "ドーク"
+  },
+  {
+    "parentA": "アクバー",
+    "parentB": "カンダタワイフ",
+    "child": "ドーク"
+  },
+  {
+    "parentA": "アクバー",
+    "parentB": "バルザック",
+    "child": "ドーク"
+  },
+  {
+    "parentA": "コアトル",
+    "parentB": "デスマシーン",
+    "child": "ドラゴンマシン"
+  },
+  {
+    "parentA": "はくりゅうおう",
+    "parentB": "フォロボス",
+    "child": "ドルマゲス"
+  },
+  {
+    "parentA": "はくりゅうおう",
+    "parentB": "フォロボシータ",
+    "child": "ドルマゲス"
+  },
+  {
+    "parentA": "はくりゅうおう",
+    "parentB": "キャプテン・クロウ",
+    "child": "ドルマゲス"
+  },
+  {
+    "parentA": "ドメディ",
+    "parentB": "皇帝ガナサダイ",
+    "child": "名をうばわれし王"
+  },
+  {
+    "parentA": "ガルーダ",
+    "parentB": "ティコ",
+    "child": "にじくじゃく"
+  },
+  {
+    "parentA": "ガルーダ",
+    "parentB": "ククリ",
+    "child": "にじくじゃく"
+  },
+  {
+    "parentA": "ガルーダ",
+    "parentB": "長老ピピット",
+    "child": "にじくじゃく"
+  },
+  {
+    "parentA": "海竜",
+    "parentB": "タイラントワーム",
+    "child": "ぬしさま"
+  },
+  {
+    "parentA": "海竜",
+    "parentB": "ウイングタイガー",
+    "child": "ぬしさま"
+  },
+  {
+    "parentA": "デュラン",
+    "parentB": "スカルスパイダー",
+    "child": "ハーゴン"
+  },
+  {
+    "parentA": "デュラン",
+    "parentB": "ワイトキング",
+    "child": "ハーゴン"
+  },
+  {
+    "parentA": "メカバーン",
+    "parentB": "ギガントドラゴン",
+    "child": "はくりゅうおう"
+  },
+  {
+    "parentA": "メカバーン",
+    "parentB": "バラモスゾンビ",
+    "child": "はくりゅうおう"
+  },
+  {
+    "parentA": "デンタザウルス",
+    "parentB": "ガマデウス",
+    "child": "バラモス"
+  },
+  {
+    "parentA": "デンタザウルス",
+    "parentB": "オセアーノン",
+    "child": "バラモス"
+  },
+  {
+    "parentA": "バラモス",
+    "parentB": "ゾンビ系",
+    "child": "バラモスゾンビ"
+  },
+  {
+    "parentA": "ギガンテス",
+    "parentB": "ベリアル",
+    "child": "バルザック"
+  },
+  {
+    "parentA": "ギガンテス",
+    "parentB": "アルゴングレート",
+    "child": "バルザック"
+  },
+  {
+    "parentA": "ギガンテス",
+    "parentB": "ギガントヒルズ",
+    "child": "バルザック"
+  },
+  {
+    "parentA": "ライオネック",
+    "parentB": "タウラス",
+    "child": "フォロボス"
+  },
+  {
+    "parentA": "ライオネック",
+    "parentB": "カプリゴン",
+    "child": "フォロボス"
+  },
+  {
+    "parentA": "グレイトドラゴン",
+    "parentB": "死神きぞく",
+    "child": "ブラックドラゴン"
+  },
+  {
+    "parentA": "グレイトドラゴン",
+    "parentB": "ゲモン",
+    "child": "ブラックドラゴン"
+  },
+  {
+    "parentA": "アンクルホーン",
+    "parentB": "アンクルホーン",
+    "child": "ヘルバトラー"
+  },
+  {
+    "parentA": "アンクルホーン",
+    "parentB": "オーシャンクロー",
+    "child": "ヘルバトラー"
+  },
+  {
+    "parentA": "アンクルホーン",
+    "parentB": "ドラゴンコープス",
+    "child": "ヘルバトラー"
+  },
+  {
+    "parentA": "ヘラクレイザー",
+    "parentB": "シールドオーガ",
+    "child": "ホーンビートル"
+  },
+  {
+    "parentA": "ヘラクレイザー",
+    "parentB": "うごくせきぞう",
+    "child": "ホーンビートル"
+  },
+  {
+    "parentA": "ヘラクレイザー",
+    "parentB": "スライムジェネラル",
+    "child": "ホーンビートル"
+  },
+  {
+    "parentA": "デスタムーア",
+    "parentB": "シールドオーガ",
+    "child": "魔王デスタムーア"
+  },
+  {
+    "parentA": "デスタムーア",
+    "parentB": "タイムマスター",
+    "child": "魔王デスタムーア"
+  },
+  {
+    "parentA": "デスタムーア",
+    "parentB": "死神の騎士",
+    "child": "魔王デスタムーア"
+  },
+  {
+    "parentA": "クシャラミ",
+    "parentB": "ギュメイ将軍",
+    "child": "魔剣神レパルド"
+  },
+  {
+    "parentA": "ブオーン",
+    "parentB": "おにこんぼう",
+    "child": "ムドー"
+  },
+  {
+    "parentA": "ブオーン",
+    "parentB": "ガマデウス",
+    "child": "ムドー"
+  },
+  {
+    "parentA": "魔王の使い",
+    "parentB": "グレイトドラゴン",
+    "child": "りゅうおう"
+  },
+  {
+    "parentA": "魔王の使い",
+    "parentB": "コアトル",
+    "child": "りゅうおう"
+  },
+  {
+    "parentA": "なげきのぼうれい",
+    "parentB": "キングスライム",
+    "child": "ワイトキング"
+  },
+  {
+    "parentA": "なげきのぼうれい",
+    "parentB": "バブルキング",
+    "child": "ワイトキング"
+  },
+  {
+    "parentA": "アンクルホーン",
+    "parentB": "ダークホーン",
+    "child": "アンクルホーン"
+  },
+  {
+    "parentA": "アンクルホーン",
+    "parentB": "メッサーラ",
+    "child": "アンクルホーン"
+  },
+  {
+    "parentA": "黒竜丸",
+    "parentB": "魔教師エルシオン",
+    "child": "イデアラゴン"
+  },
+  {
+    "parentA": "なげきのぼうれい",
+    "parentB": "グレイトドラゴン",
+    "child": "イブール"
+  },
+  {
+    "parentA": "なげきのぼうれい",
+    "parentB": "アンドレアル",
+    "child": "イブール"
+  },
+  {
+    "parentA": "ゴールドマン",
+    "parentB": "ヘルビースト",
+    "child": "ウィングデビル"
+  },
+  {
+    "parentA": "くもの大王",
+    "parentB": "ソードファントム",
+    "child": "ウパソルジャー"
+  },
+  {
+    "parentA": "ワニバーン",
+    "parentB": "かぶとこぞう",
+    "child": "オーシャンクロー"
+  },
+  {
+    "parentA": "ワニバーン",
+    "parentB": "きりさきピエロ",
+    "child": "オーシャンクロー"
+  },
+  {
+    "parentA": "ワニバーン",
+    "parentB": "かくとうパンサー",
+    "child": "オーシャンクロー"
+  },
+  {
+    "parentA": "コスモファントム",
+    "parentB": "ユニコーン",
+    "child": "オルゴ・デミーラ"
+  },
+  {
+    "parentA": "しりょうのきし",
+    "parentB": "しりょうのきし",
+    "child": "がいこつけんし"
+  },
+  {
+    "parentA": "ヘルバトラー",
+    "parentB": "ガルーダ",
+    "child": "カプリゴン"
+  },
+  {
+    "parentA": "ヘルコンドル",
+    "parentB": "ガルーダ",
+    "child": "ガルーダ"
+  },
+  {
+    "parentA": "神獣系",
+    "parentB": "Aランク以上の悪魔系",
+    "child": "ガルハート"
+  },
+  {
+    "parentA": "ガマキャノン",
+    "parentB": "ガマキャノン",
+    "child": "ギガミュータント"
+  },
+  {
+    "parentA": "メッサーラ",
+    "parentB": "デスゴーゴン",
+    "child": "キマイラロード"
+  },
+  {
+    "parentA": "キラーパンサー",
+    "parentB": "ゲマ",
+    "child": "ギュメイ将軍"
+  },
+  {
+    "parentA": "ベリアル",
+    "parentB": "オクトセントリー",
+    "child": "グラコス"
+  },
+  {
+    "parentA": "ベリアル",
+    "parentB": "マーマン",
+    "child": "グラコス"
+  },
+  {
+    "parentA": "神獣系",
+    "parentB": "ランクA以上の物質系",
+    "child": "グラブゾン"
+  },
+  {
+    "parentA": "アンドレアル",
+    "parentB": "ギリメカラ",
+    "child": "グレイトドラゴン"
+  },
+  {
+    "parentA": "アンドレアル",
+    "parentB": "ずしおうまる",
+    "child": "グレイトドラゴン"
+  },
+  {
+    "parentA": "アンドレアル",
+    "parentB": "キマイラロード",
+    "child": "グレイトドラゴン"
+  },
+  {
+    "parentA": "アンドレアル",
+    "parentB": "デンタザウルス",
+    "child": "グレイトドラゴン"
+  },
+  {
+    "parentA": "イデアラゴン",
+    "parentB": "シュプリンガー",
+    "child": "ゲマ"
+  },
+  {
+    "parentA": "ジャミラス",
+    "parentB": "バズズ",
+    "child": "ゲモン"
+  },
+  {
+    "parentA": "ジャミラス",
+    "parentB": "アトラス",
+    "child": "ゲモン"
+  },
+  {
+    "parentA": "ジャミラス",
+    "parentB": "ベリアル",
+    "child": "ゲモン"
+  },
+  {
+    "parentA": "ジャミラス",
+    "parentB": "ジャミ",
+    "child": "ゲルニック将軍"
+  },
+  {
+    "parentA": "キングレオ",
+    "parentB": "イブール",
+    "child": "皇帝ガナサダイ"
+  },
+  {
+    "parentA": "ダンビラムーチョ",
+    "parentB": "ソードファントム",
+    "child": "コスモファントム"
+  },
+  {
+    "parentA": "モヒカント",
+    "parentB": "ゴンズ",
+    "child": "ゴレオン将軍"
+  },
+  {
+    "parentA": "バッファロン",
+    "parentB": "シュプリンガー",
+    "child": "ゴンズ"
+  },
+  {
+    "parentA": "ひくいどり",
+    "parentB": "ホークブリザード",
+    "child": "サンダーバード"
+  },
+  {
+    "parentA": "メガボーグ",
+    "parentB": "プロトキラー",
+    "child": "シールドオーガ"
+  },
+  {
+    "parentA": "メガボーグ",
+    "parentB": "キラーマシン",
+    "child": "シールドオーガ"
+  },
+  {
+    "parentA": "メガボーグ",
+    "parentB": "トラップボックス",
+    "child": "シールドオーガ"
+  },
+  {
+    "parentA": "木馬の騎士",
+    "parentB": "木馬の騎士",
+    "child": "死神きぞく"
+  },
+  {
+    "parentA": "死神きぞく",
+    "parentB": "シュプリンガー",
+    "child": "ジャミ"
+  },
+  {
+    "parentA": "タイラントワーム",
+    "parentB": "ナイトキング",
+    "child": "スカルスパイダー"
+  },
+  {
+    "parentA": "タイラントワーム",
+    "parentB": "ローズバトラー",
+    "child": "スカルスパイダー"
+  },
+  {
+    "parentA": "タイラントワーム",
+    "parentB": "なげきのぼうれい",
+    "child": "スカルスパイダー"
+  },
+  {
+    "parentA": "あくまの騎士",
+    "parentB": "シュプリンガー",
+    "child": "ずしおうまる"
+  },
+  {
+    "parentA": "あくまの騎士",
+    "parentB": "ドラゴンライダー",
+    "child": "ずしおうまる"
+  },
+  {
+    "parentA": "あくまの騎士",
+    "parentB": "ギガントヒルズ",
+    "child": "ずしおうまる"
+  },
+  {
+    "parentA": "あくまの騎士",
+    "parentB": "デンタザウルス",
+    "child": "ずしおうまる"
+  },
+  {
+    "parentA": "神獣系",
+    "parentB": "Aランク以上の自然系",
+    "child": "スペディオ"
+  },
+  {
+    "parentA": "メタルカイザー",
+    "parentB": "メタルカイザー",
+    "child": "スライムジェネラル"
+  },
+  {
+    "parentA": "ワニバーン",
+    "parentB": "グラコス",
+    "child": "大王イカ"
+  },
+  {
+    "parentA": "ワニバーン",
+    "parentB": "ギガミュータント",
+    "child": "大王イカ"
+  },
+  {
+    "parentA": "バッファロン",
+    "parentB": "ギガンテス",
+    "child": "タウラス"
+  },
+  {
+    "parentA": "アサシンブロス",
+    "parentB": "悪魔系",
+    "child": "ダブルイーター"
+  },
+  {
+    "parentA": "かみさま",
+    "parentB": "ティコ",
+    "child": "長老ピピット"
+  },
+  {
+    "parentA": "かみさま",
+    "parentB": "ククリ",
+    "child": "長老ピピット"
+  },
+  {
+    "parentA": "グランスライム",
+    "parentB": "ティコ",
+    "child": "長老ピピット"
+  },
+  {
+    "parentA": "グランスライム",
+    "parentB": "ククリ",
+    "child": "長老ピピット"
+  },
+  {
+    "parentA": "神獣系",
+    "parentB": "Aランク以上の魔獣系",
+    "child": "ディアノーグ"
+  },
+  {
+    "parentA": "サンダーバード",
+    "parentB": "アクバー",
+    "child": "デスタムーア"
+  },
+  {
+    "parentA": "死神きぞく",
+    "parentB": "ナイトキング",
+    "child": "デュラハーン"
+  },
+  {
+    "parentA": "死神きぞく",
+    "parentB": "暗黒の魔神",
+    "child": "デュラハーン"
+  },
+  {
+    "parentA": "死神きぞく",
+    "parentB": "なげきのぼうれい",
+    "child": "デュラハーン"
+  },
+  {
+    "parentA": "炎の戦士",
+    "parentB": "ブリザードマン",
+    "child": "デュラン"
+  },
+  {
+    "parentA": "とらおとこ",
+    "parentB": "いどまじん",
+    "child": "とうだいタイガー"
+  },
+  {
+    "parentA": "病魔パンデルム",
+    "parentB": "グレイトドラゴン",
+    "child": "ドラゴンコープス"
+  },
+  {
+    "parentA": "病魔パンデルム",
+    "parentB": "アンドレアル",
+    "child": "ドラゴンコープス"
+  },
+  {
+    "parentA": "ボストロール",
+    "parentB": "ブオーン",
+    "child": "トロルボンバー"
+  },
+  {
+    "parentA": "ナイトリッチ",
+    "parentB": "ナイトリッチ",
+    "child": "ナイトキング"
+  },
+  {
+    "parentA": "ナイトリッチ",
+    "parentB": "病魔パンデルム",
+    "child": "なげきのぼうれい"
+  },
+  {
+    "parentA": "ナイトリッチ",
+    "parentB": "じごくのメンドーサ",
+    "child": "なげきのぼうれい"
+  },
+  {
+    "parentA": "ナイトリッチ",
+    "parentB": "黒騎士レオコーン",
+    "child": "なげきのぼうれい"
+  },
+  {
+    "parentA": "ナイトリッチ",
+    "parentB": "フラワーゾンビ",
+    "child": "なげきのぼうれい"
+  },
+  {
+    "parentA": "シルバーデビル",
+    "parentB": "スカルスパイダー",
+    "child": "バズズ"
+  },
+  {
+    "parentA": "シルバーデビル",
+    "parentB": "アンドレアル",
+    "child": "バズズ"
+  },
+  {
+    "parentA": "物質系",
+    "parentB": "ブル",
+    "child": "バル"
+  },
+  {
+    "parentA": "物質系",
+    "parentB": "ベル",
+    "child": "バル"
+  },
+  {
+    "parentA": "物質系",
+    "parentB": "ボル",
+    "child": "バル"
+  },
+  {
+    "parentA": "キラーアーマー",
+    "parentB": "死神きぞく",
+    "child": "ピサロナイト"
+  },
+  {
+    "parentA": "キラーアーマー",
+    "parentB": "オーシャンクロー",
+    "child": "ピサロナイト"
+  },
+  {
+    "parentA": "ポンポコあにき",
+    "parentB": "コングヘッド",
+    "child": "ヒヒュルデの使い"
+  },
+  {
+    "parentA": "ポンポコあにき",
+    "parentB": "キラーエイプ",
+    "child": "ヒヒュルデの使い"
+  },
+  {
+    "parentA": "プオーン",
+    "parentB": "プオーン",
+    "child": "ブオーン"
+  },
+  {
+    "parentA": "プチット族",
+    "parentB": "ローズダンス",
+    "child": "プチットガールズ"
+  },
+  {
+    "parentA": "プチット族",
+    "parentB": "じごくのマドンナ",
+    "child": "プチットガールズ"
+  },
+  {
+    "parentA": "自然系",
+    "parentB": "バル",
+    "child": "ブル"
+  },
+  {
+    "parentA": "自然系",
+    "parentB": "ベル",
+    "child": "ブル"
+  },
+  {
+    "parentA": "自然系",
+    "parentB": "ボル",
+    "child": "ブル"
+  },
+  {
+    "parentA": "かぶとこぞう",
+    "parentB": "メタルキング",
+    "child": "ヘラクレイザー"
+  },
+  {
+    "parentA": "アークデーモン",
+    "parentB": "グレイトドラゴン",
+    "child": "ベリアル"
+  },
+  {
+    "parentA": "アークデーモン",
+    "parentB": "ゴールデンゴーレム",
+    "child": "ベリアル"
+  },
+  {
+    "parentA": "魔獣系",
+    "parentB": "バル",
+    "child": "ベル"
+  },
+  {
+    "parentA": "魔獣系",
+    "parentB": "ブル",
+    "child": "ベル"
+  },
+  {
+    "parentA": "魔獣系",
+    "parentB": "ボル",
+    "child": "ベル"
+  },
+  {
+    "parentA": "ランプの魔王",
+    "parentB": "なぞのしんかん",
+    "child": "ほうらい大王"
+  },
+  {
+    "parentA": "ランプの魔王",
+    "parentB": "アークデーモン",
+    "child": "ほうらい大王"
+  },
+  {
+    "parentA": "ランプの魔王",
+    "parentB": "ボストロール",
+    "child": "ほうらい大王"
+  },
+  {
+    "parentA": "プチット族",
+    "parentB": "ウィングデビル",
+    "child": "魔王の使い"
+  },
+  {
+    "parentA": "ひとくいそう",
+    "parentB": "ひとくいそう",
+    "child": "マンイーター"
+  },
+  {
+    "parentA": "黒竜丸",
+    "parentB": "がいこつけんし",
+    "child": "ミルドラース"
+  },
+  {
+    "parentA": "メタルドラゴン",
+    "parentB": "アンドレアル",
+    "child": "メカバーン"
+  },
+  {
+    "parentA": "メタルドラゴン",
+    "parentB": "グレイトドラゴン",
+    "child": "メカバーン"
+  },
+  {
+    "parentA": "ギリメカラ",
+    "parentB": "ずしおうまる",
+    "child": "モヒカント"
+  },
+  {
+    "parentA": "ギリメカラ",
+    "parentB": "キラーパンサー",
+    "child": "モヒカント"
+  },
+  {
+    "parentA": "ギリメカラ",
+    "parentB": "スライムファング",
+    "child": "モヒカント"
+  },
+  {
+    "parentA": "マンドラゴラ",
+    "parentB": "プチットガールズ",
+    "child": "妖女イシュダル"
+  },
+  {
+    "parentA": "マンドラゴラ",
+    "parentB": "ローズダンス",
+    "child": "妖女イシュダル"
+  },
+  {
+    "parentA": "マンドラゴラ",
+    "parentB": "じごくのマドンナ",
+    "child": "妖女イシュダル"
+  },
+  {
+    "parentA": "シュプリンガー",
+    "parentB": "ウパソルジャー",
+    "child": "ライオネック"
+  },
+  {
+    "parentA": "レティス",
+    "parentB": "ギガントドラゴン",
+    "child": "ロック鳥"
+  },
+  {
+    "parentA": "レティス",
+    "parentB": "ブラックドラゴン",
+    "child": "ロック鳥"
+  },
+  {
+    "parentA": "カプリゴン",
+    "parentB": "ギガントドラゴン",
+    "child": "ロック鳥"
+  },
+  {
+    "parentA": "カプリゴン",
+    "parentB": "ブラックドラゴン",
+    "child": "ロック鳥"
+  },
+  {
+    "parentA": "グランドシャーク",
+    "parentB": "シャークマジュ",
+    "child": "ワニバーン"
+  },
+  {
+    "parentA": "さまようよろい",
+    "parentB": "バトルレックス",
+    "child": "あくまの騎士"
+  },
+  {
+    "parentA": "ギガハンド",
+    "parentB": "ビックアイ",
+    "child": "ギガンテス"
+  },
+  {
+    "parentA": "ギガハンド",
+    "parentB": "ボストロール",
+    "child": "ギガンテス"
+  },
+  {
+    "parentA": "さまようよろい",
+    "parentB": "魔獣系",
+    "child": "キラーアーマー"
+  },
+  {
+    "parentA": "ゴーレム",
+    "parentB": "イノブタマン",
+    "child": "ギリメカラ"
+  },
+  {
+    "parentA": "ゴーレム",
+    "parentB": "サイコロン",
+    "child": "ギリメカラ"
+  },
+  {
+    "parentA": "ゴーレム",
+    "parentB": "ダンビラムーチョ",
+    "child": "ギリメカラ"
+  },
+  {
+    "parentA": "ボーンナイト",
+    "parentB": "ソードファントム",
+    "child": "黒騎士レオコーン"
+  },
+  {
+    "parentA": "スカイドラゴン",
+    "parentB": "なぞのしんかん",
+    "child": "じごくのメンドーサ"
+  },
+  {
+    "parentA": "海竜",
+    "parentB": "魔獣系",
+    "child": "シャークマジュ"
+  },
+  {
+    "parentA": "サイレス",
+    "parentB": "じごくのもんばん",
+    "child": "ジャミラス"
+  },
+  {
+    "parentA": "キングスライム",
+    "parentB": "キングスライム",
+    "child": "スライムベホマズン"
+  },
+  {
+    "parentA": "きりさきピエロ",
+    "parentB": "スライム系",
+    "child": "ダークスライム"
+  },
+  {
+    "parentA": "ダークスライム",
+    "parentB": "スライムナイト",
+    "child": "ダークナイト"
+  },
+  {
+    "parentA": "ダークスライム",
+    "parentB": "エビルドライブ",
+    "child": "ダークナイト"
+  },
+  {
+    "parentA": "エビラ",
+    "parentB": "エビラ",
+    "child": "ダンジョンえび"
+  },
+  {
+    "parentA": "ダークスライム",
+    "parentB": "魔獣系",
+    "child": "デーモンレスラー"
+  },
+  {
+    "parentA": "アイアンブルドー",
+    "parentB": "アイアンブルドー",
+    "child": "デスゴーゴン"
+  },
+  {
+    "parentA": "おおうつぼ",
+    "parentB": "オクトセントリー",
+    "child": "トライワインダー"
+  },
+  {
+    "parentA": "バトルレックス",
+    "parentB": "物質系",
+    "child": "ドラゴンソルジャー"
+  },
+  {
+    "parentA": "ドラゴンマッド",
+    "parentB": "スライムナイト",
+    "child": "ドラゴンライダー"
+  },
+  {
+    "parentA": "ドラゴンマッド",
+    "parentB": "エビルドライブ",
+    "child": "ドラゴンライダー"
+  },
+  {
+    "parentA": "しりょうのきし",
+    "parentB": "キラーアーマー",
+    "child": "ナイトリッチ"
+  },
+  {
+    "parentA": "スーパーテンツク",
+    "parentB": "イノブタマン",
+    "child": "パオーム"
+  },
+  {
+    "parentA": "スーパーテンツク",
+    "parentB": "サイコロン",
+    "child": "パオーム"
+  },
+  {
+    "parentA": "スーパーテンツク",
+    "parentB": "ダンビラムーチョ",
+    "child": "パオーム"
+  },
+  {
+    "parentA": "メタルスライム",
+    "parentB": "メタルスライム",
+    "child": "はぐれメタル"
+  },
+  {
+    "parentA": "ヘルコンドル",
+    "parentB": "フレイム",
+    "child": "ひくいどり"
+  },
+  {
+    "parentA": "くさった死体",
+    "parentB": "エビルスピリッツ",
+    "child": "病魔パンデルム"
+  },
+  {
+    "parentA": "わかめおうじ",
+    "parentB": "しりょうのきし",
+    "child": "フラワーゾンビ"
+  },
+  {
+    "parentA": "わかめおうじ",
+    "parentB": "ソードファントム",
+    "child": "フラワーゾンビ"
+  },
+  {
+    "parentA": "じごくのもんばん",
+    "parentB": "ホークブリザード",
+    "child": "ブリザードマン"
+  },
+  {
+    "parentA": "メタルハンター",
+    "parentB": "メタルハンター",
+    "child": "プロトキラー"
+  },
+  {
+    "parentA": "ギャオース",
+    "parentB": "ゾンビ系",
+    "child": "ヘルダイバー"
+  },
+  {
+    "parentA": "ヘルコンドル",
+    "parentB": "ブリザード",
+    "child": "ホークブリザード"
+  },
+  {
+    "parentA": "エビルドライブ",
+    "parentB": "イノブタマン",
+    "child": "ボーンナイト"
+  },
+  {
+    "parentA": "エビルドライブ",
+    "parentB": "サイコロン",
+    "child": "ボーンナイト"
+  },
+  {
+    "parentA": "エビルドライブ",
+    "parentB": "ダンビラムーチョ",
+    "child": "ボーンナイト"
+  },
+  {
+    "parentA": "コングヘッド",
+    "parentB": "イノブタマン",
+    "child": "ボストロール"
+  },
+  {
+    "parentA": "コングヘッド",
+    "parentB": "サイコロン",
+    "child": "ボストロール"
+  },
+  {
+    "parentA": "コングヘッド",
+    "parentB": "ダンビラムーチョ",
+    "child": "ボストロール"
+  },
+  {
+    "parentA": "じごくのもんばん",
+    "parentB": "ひくいどり",
+    "child": "炎の戦士"
+  },
+  {
+    "parentA": "ダンスキャロット",
+    "parentB": "ダンスキャロット",
+    "child": "マンドラゴラ"
+  },
+  {
+    "parentA": "おおさそり",
+    "parentB": "ダックカイト",
+    "child": "メダパニシックル"
+  },
+  {
+    "parentA": "ダンジョンえび",
+    "parentB": "自然系",
+    "child": "よろいムカデ"
+  },
+  {
+    "parentA": "エビルポット",
+    "parentB": "くもの大王",
+    "child": "ランプの魔王"
+  },
+  {
+    "parentA": "タマゴロン",
+    "parentB": "ぶちキング",
+    "child": "ワンダーエッグ"
+  }
+]
